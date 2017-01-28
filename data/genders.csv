@@ -1,0 +1,3 @@
+ID:int,DEPTH:int,CODE:string
+1,1,MALE
+2,1,FEMALE
